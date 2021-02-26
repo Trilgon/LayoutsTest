@@ -1,10 +1,3 @@
 <resources>
     <string name="app_name">PracticeOne</string>
-    <string name="phone_hint"><font size = "16">(Mobile)</font></string>
-    <string name="contact_name">Name:</string>
-    <string name="contact_name_hint"><font size = "16">Введите имя</font></string>
-    <string name="contact_organisation">Organisation:</string>
-    <string name="contact_organisation_hint"><font size = "16">Введите организацию</font></string>
-    <string name="save_contact">Save</string>
-    <string name="phone_number_hint"><font size = "16">Введите номер телефона</font></string>
 </resources>

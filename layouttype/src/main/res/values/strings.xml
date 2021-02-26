@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">LayoutType</string>
     <string name="buttton">Buttton</string>
+
+    <string name="phone_hint"><font size="16">(Mobile)</font></string>
+    <string name="contact_name">Name:</string>
+    <string name="contact_name_hint"><font size="16">Введите имя</font></string>
+    <string name="contact_organisation">Organisation:</string>
+    <string name="contact_organisation_hint"><font size="16">Введите организацию</font></string>
+    <string name="save_contact">Save</string>
+    <string name="phone_number_hint"><font size="16">Введите номер телефона</font></string>
+    <string name="new_life_for_mirea_activity">new life for mirea activity</string>
+    <string name="first_button">Первая кнопка</string>
+    <string name="second_button">Вторая кнопка</string>
+    <string name="third_button">Третья кнопка</string>
+    <string name="fourth_button">Четвёртая кнопка</string>
+    <string name="fifth_button">Пятая кнопка</string>
+    <string name="sixth_button">Шестая кнопка</string>
+    <string name="empty_contact_msg">Поля \"Имя\" и \"Номер телефона\" должны быть заполнены</string>
+    <string name="contact_saved_msg">Контакт сохранён</string>
 </resources>

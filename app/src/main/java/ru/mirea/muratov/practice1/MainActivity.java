@@ -14,7 +14,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void saveContact(View view) {
-        Toast.makeText(this, "Контакт сохранён", Toast.LENGTH_SHORT).show();
-    }
+
 }
